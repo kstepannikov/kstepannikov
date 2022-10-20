@@ -6,6 +6,3 @@ for i in range(vvod):
     chislo1 = chislo2
     chislo2 = sum
 print("Ответ =",chislo1)
-
-a = "True"
-print(a)
